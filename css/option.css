@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    background-color: #eee;
+
+}
+.settings{
+    padding-left: 50px;
+}
+.indent{
+    margin-left: 100px;
+}
+.bold{
+    font-weight: bold;
+}
+
+
+}
+.tokenfield .twitter-typeahead .form-control {
+    display: none;
+}
